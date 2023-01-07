@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl": "https://rbhatia46.github.io/",
+  "imagebaseurl": "https://danieldoh.netlify.app/",
   "name": "Daniel Doh",
   "role": "Software Developer/ Data Science Undergraduate",
   "linkedinId": "Your LinkedIn Id",
@@ -17,7 +17,7 @@ let resumeData = {
   ],
   "aboutme": "I am currently a Boston University sophomore pursuing my B.S. in Data Science. I am a self-taught Web/IOS Developer, presently looking for opportunities for product management, particularly within education-technology. I believe that a fulfilling life can be achieved by exploring new hobbies. Outside of class, I am currently learning how to play piano, box, and speak/write Korean.",
   "address": "Boston, Massachusetts",
-  "website": "https://rbhatia46.github.io",
+  "website": "https://danieldoh.netlify.app/",
   "education": [
     {
       "UniversityName": "Boston University",
