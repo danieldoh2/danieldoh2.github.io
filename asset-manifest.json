@@ -1,13 +1,13 @@
 {
-  "main.css": "/danieldoh2.github.io/static/css/main.841a7a27.chunk.css",
-  "main.js": "/danieldoh2.github.io/static/js/main.1adca777.chunk.js",
-  "main.js.map": "/danieldoh2.github.io/static/js/main.1adca777.chunk.js.map",
-  "static/js/1.02feadb2.chunk.js": "/danieldoh2.github.io/static/js/1.02feadb2.chunk.js",
-  "static/js/1.02feadb2.chunk.js.map": "/danieldoh2.github.io/static/js/1.02feadb2.chunk.js.map",
-  "runtime~main.js": "/danieldoh2.github.io/static/js/runtime~main.ea3ee728.js",
-  "runtime~main.js.map": "/danieldoh2.github.io/static/js/runtime~main.ea3ee728.js.map",
-  "static/css/main.841a7a27.chunk.css.map": "/danieldoh2.github.io/static/css/main.841a7a27.chunk.css.map",
-  "index.html": "/danieldoh2.github.io/index.html",
-  "precache-manifest.26f0e0479a4a5c9b438f54aabc40a7a2.js": "/danieldoh2.github.io/precache-manifest.26f0e0479a4a5c9b438f54aabc40a7a2.js",
-  "service-worker.js": "/danieldoh2.github.io/service-worker.js"
+  "main.css": "/static/css/main.841a7a27.chunk.css",
+  "main.js": "/static/js/main.28d501dd.chunk.js",
+  "main.js.map": "/static/js/main.28d501dd.chunk.js.map",
+  "static/js/1.02feadb2.chunk.js": "/static/js/1.02feadb2.chunk.js",
+  "static/js/1.02feadb2.chunk.js.map": "/static/js/1.02feadb2.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.841a7a27.chunk.css.map": "/static/css/main.841a7a27.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.a5aff09b11d73b53afa504aa9cebde20.js": "/precache-manifest.a5aff09b11d73b53afa504aa9cebde20.js",
+  "service-worker.js": "/service-worker.js"
 }
