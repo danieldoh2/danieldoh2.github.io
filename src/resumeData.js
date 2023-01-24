@@ -21,18 +21,21 @@ let resumeData = {
   "education": [
     {
       "UniversityName": "Boston University",
-      // "specialization": "Data Science",
+      "specialization": "Bachelor of Science in Data Science",
       "MonthOfPassing": "May",
       "MonthOfStarting": "September",
       "YearOfStarting": "2021",
-      "YearOfPassing": "2025"
+      "YearOfPassing": "2025",
+      "Achievements": "3.5/4 GPA, Dean's List"
+
     },
     {
       "UniversityName": "Rolling Meadows High School",
       "MonthOfPassing": "May",
       "MonthOfStarting": "August",
       "YearOfStarting": "2017",
-      "YearOfPassing": "2021"
+      "YearOfPassing": "2021",
+
     }
   ],
   "work": [
@@ -43,7 +46,7 @@ let resumeData = {
       "MonthOfStarting": "October",
       "YearOfStarting": "2022",
       // "YearOfPassing": "2023"
-      // "Achievements": "Some Achievements"
+      // "Achievements": "Developed over 20% of application’s total front-end software with React Native",
     },
     {
       "CompanyName": "Berea College Information Systems and Services",
@@ -68,25 +71,25 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "project1",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
+      "name": "Recipe Application",
+      "description": "Mobile App created with React Native",
+      "imgurl": "images/recipeAppPic.PNG"
     },
     {
-      "name": "project2",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project.jpg"
+      "name": "ToDO/GoalTracking App (In Progress)",
+      "description": "Web App created with ReactJS",
+      "imgurl": "images/ToDO.PNG"
     },
     {
-      "name": "project3",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png"
+      "name": "BU Food Waste Elimination App",
+      "description": "Mobile App created with SwiftUI",
+      "imgurl": "images/BUDining.PNG"
     },
-    {
-      "name": "project4",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
-    }
+    // {
+    //   "name": "project4",
+    //   "description": "mobileapp",
+    //   "imgurl": "images/portfolio/phone.jpg"
+    // }
   ],
   "testimonials": [
     {
